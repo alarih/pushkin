@@ -1,1 +1,1 @@
-# pushkin
+# sudo -i
